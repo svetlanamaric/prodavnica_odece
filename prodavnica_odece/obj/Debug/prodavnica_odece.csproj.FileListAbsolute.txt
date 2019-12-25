@@ -1,0 +1,9 @@
+C:\Users\Ceca\source\repos\prodavnica_odece\prodavnica_odece\bin\Debug\prodavnica_odece.exe.config
+C:\Users\Ceca\source\repos\prodavnica_odece\prodavnica_odece\bin\Debug\prodavnica_odece.exe
+C:\Users\Ceca\source\repos\prodavnica_odece\prodavnica_odece\bin\Debug\prodavnica_odece.pdb
+C:\Users\Ceca\source\repos\prodavnica_odece\prodavnica_odece\obj\Debug\prodavnica_odece.csprojAssemblyReference.cache
+C:\Users\Ceca\source\repos\prodavnica_odece\prodavnica_odece\obj\Debug\prodavnica_odece.Form1.resources
+C:\Users\Ceca\source\repos\prodavnica_odece\prodavnica_odece\obj\Debug\prodavnica_odece.Properties.Resources.resources
+C:\Users\Ceca\source\repos\prodavnica_odece\prodavnica_odece\obj\Debug\prodavnica_odece.csproj.GenerateResource.cache
+C:\Users\Ceca\source\repos\prodavnica_odece\prodavnica_odece\obj\Debug\prodavnica_odece.exe
+C:\Users\Ceca\source\repos\prodavnica_odece\prodavnica_odece\obj\Debug\prodavnica_odece.pdb
